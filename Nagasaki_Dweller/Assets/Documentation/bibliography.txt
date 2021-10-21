@@ -1,0 +1,15 @@
+background: https://i.imgur.com/VKwI6k2.png
+music: https://opengameart.org/content/post-apocalypse-more-music-inside
+character sprite: https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/
+keyboard key PNGs: https://iconarchive.com/show/keyboard-keys-icons-by-chromatix.1.html
+monster sprites and animations: https://luizmelo.artstation.com/resume
+some code: https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
+background 1: https://www.deviantart.com/sylviaritter/art/Apocalypse-Desert-Landmark-Concept-Art-551660982
+background 2: https://wallpaperaccess.com/pixel-art-desktop
+background 3: https://www.pinterest.com/pin/350084571035064310/
+background 4: http://36.media.tumblr.com/b00ec36d2675e09ea8db1f58aade03bd/tumblr_n1qnbmq9KN1qer734o4_1280.png
+background 5: http://41.media.tumblr.com/7b28bcc0c7b38598896a6ecf1406231a/tumblr_n1qnbmq9KN1qer734o3_1280.png
+background 7: https://i.ytimg.com/vi/hNHxNYUWSY4/maxresdefault.jpg
+background 8: https://steamcdn-a.akamaihd.net/steam/apps/926400/ss_55b4db96faec75f0aea6b36ed049072f9274ad26.jpg?t=1573232453
+pre-boss background: https://t3.ftcdn.net/jpg/02/88/02/76/240_F_288027622_AOatqUWMzgRRp6cutbigmqT7J7EaUzRV.jpg
+boss background: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1acb5132-e24d-478d-a0fc-848c486993de/db7csz7-821d6cee-84e6-4b36-bab8-7f418acbbbd8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWFjYjUxMzItZTI0ZC00NzhkLWEwZmMtODQ4YzQ4Njk5M2RlXC9kYjdjc3o3LTgyMWQ2Y2VlLTg0ZTYtNGIzNi1iYWI4LTdmNDE4YWNiYmJkOC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.0mqFXG44nNRw0kuhAXvCGVltlgaEHPL_nLpgHG7LoAo
